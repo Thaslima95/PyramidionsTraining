@@ -1,0 +1,28 @@
+#img1 {
+  opacity: 1;
+  height: 100px;
+  width: 100px;
+}
+#img2 {
+  opacity: 0.3;
+  height: 100px;
+  width: 100px;
+}
+#img3 {
+  opacity: 0.5;
+  height: 100px;
+  width: 100px;
+}
+#img4 {
+  opacity: 0.5;
+  height: 100px;
+  width: 100px;
+}
+#img4:hover {
+  opacity: 1;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

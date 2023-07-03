@@ -1,0 +1,40 @@
+.imgclass {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 10px;
+}
+
+.imgclass1 {
+  width: 100px;
+  height: 100px;
+  float: right;
+  margin-left: 10px;
+}
+
+.container {
+  width: 300px;
+  height: 300px;
+  background-color: aqua;
+  float: left;
+  padding: 10px;
+}
+
+.container1 {
+  width: 300px;
+  height: 300px;
+  background-color: aqua;
+  float: right;
+  padding: 10px;
+}
+
+.container2 {
+  width: 300px;
+  height: 300px;
+  background-color: blue;
+}
+.imgclass2 {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
