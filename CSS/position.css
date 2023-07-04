@@ -1,0 +1,38 @@
+.right {
+  width: 730px;
+  height: 400px;
+  background-color: #89bff3;
+  /* opacity: 0.4; */
+}
+/* .right::before {
+  opacity: 0.4;
+  
+} */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.left {
+  width: 300px;
+  height: 300px;
+  /* border: 2px solid; */
+}
+#img {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  position: relative;
+  bottom: 50px;
+  left: 30px;
+  right: 30px;
+}
+#img1 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  position: relative;
+  left: -100px;
+  border: 12px solid white;
+}

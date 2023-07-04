@@ -23,7 +23,7 @@ body {
   );
   display: flex;
   flex-direction: column;
-  padding: 30px;
+  padding: 30px; /*top right bottom left*/
   border-radius: 5%;
   color: black;
   font-style: 500;

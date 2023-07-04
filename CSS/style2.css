@@ -25,6 +25,10 @@
 }
 #groove {
   border: 5px groove blue;
+  border-top: 1px solid black;
+  border-bottom: 2px dotted red;
+  border-right: 3px dashed blue;
+  border-left: 4px double green;
 }
 #dotted {
   border: 3px dotted blue;

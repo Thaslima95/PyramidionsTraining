@@ -1,0 +1,38 @@
+.blue {
+  color: blue;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.yellow {
+  color: yellow;
+}
+.black {
+  position: relative;
+  z-index: 1;
+}
+
+div {
+  border: 5px solid;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotate(90deg);
+}
+
+.bottom {
+  position: relative;
+  /* position: absolute; */
+  /* right: 120px; */
+  left: -120px;
+  /* border-right: 1px solid black; */
+}
