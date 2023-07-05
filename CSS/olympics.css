@@ -28,6 +28,9 @@ div {
   align-items: center;
   transform: rotate(90deg);
 }
+h2 {
+  transform: rotate(-90deg);
+}
 
 .bottom {
   position: relative;

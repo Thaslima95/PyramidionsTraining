@@ -1,0 +1,19 @@
+.progress1 {
+  width: 200px;
+  height: 200px;
+  border: 10px solid grey;
+  border-radius: 50%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  border-top-color: green;
+  border-right-color: green;
+  border-bottom-color: green;
+  border-left-color: white;
+  transform: rotate(45deg);
+}
+.content {
+  transform: rotate(-45deg);
+}
